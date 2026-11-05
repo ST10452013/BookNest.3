@@ -61,3 +61,15 @@ GitHub Actions can also be used to automate Android build checks whenever code i
 
 Future Improvements Possible improvements for future versions include:
 Expanded multilingual support. Book notes and personal reading reflections. Reading statistics and progress summaries. Improved book recommendations. Additional user interface enhancements. Automated unit and UI testing. Preparation for Google Play Store distribution. 12. AI Usage Declaration Artificial Intelligence tools, including ChatGPT, were used as development support during the creation of BookNest. AI assistance was used to help understand Kotlin and XML concepts, troubleshoot programming errors, explain Firebase Authentication and Firestore integration, and guide the implementation and refinement of application features. This assistance included guidance relating to user login and registration, book searching through the Open Library API, saving and removing favourite books, managing reading statuses, and displaying completed books in the Reading Record. AI was also used to assist with project documentation and explanations of the application's code structure. The application was developed, assembled and tested by the student, who remains responsible for the final implementation, verification and submitted work. AI was used as a support tool rather than as a feature within the BookNest application itself.
+
+
+PERSONAL Wishes for project app
+Update project documentation
+
+
+
+Add supported languages information
+
+
+
+Document application testing
