@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">BookNest</string>
+    <string name="login_title">Rea u amohela ho BookNest</string>
+    <string name="email_hint">Aterese ea imeile</string>
+    <string name="password_hint">Phasewete</string>
+    <string name="login_button">Kena</string>
+    <string name="register_button">Ngolisa</string>
+    <string name="search_hint">Batla libuka</string>
+    <string name="search_button">Batla</string>
+    <string name="logout_button">Tsoa</string>
+    <string name="my_books">Libuka tsa ka</string>
+    <string name="favorites">Tse ratoang</string>
+    <string name="reading_tracker">Ho sala morao ho bala</string>
+    <string name="language">Puo</string>
+
+    <string-array name="language_options">
+        <item>English</item>
+        <item>isiZulu</item>
+        <item>Sesotho</item>
+    </string-array>
+</resources>

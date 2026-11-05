@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BookNest</string>
+    <string name="login_title">Welcome to BookNest</string>
+    <string name="email_hint">Email address</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="search_hint">Search for books</string>
+    <string name="search_button">Search</string>
+    <string name="logout_button">Logout</string>
+    <string name="my_books">My Books</string>
+    <string name="favorites">Favourites</string>
+    <string name="reading_tracker">Reading Tracker</string>
+    <string name="language">Language</string>
+
+    <string-array name="language_options">
+        <item>English</item>
+        <item>isiZulu</item>
+        <item>Sesotho</item>
+    </string-array>
+</resources>

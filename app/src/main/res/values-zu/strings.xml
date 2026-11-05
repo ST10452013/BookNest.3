@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">BookNest</string>
+    <string name="login_title">Siyakwamukela ku-BookNest</string>
+    <string name="email_hint">Ikheli le-imeyili</string>
+    <string name="password_hint">Iphasiwedi</string>
+    <string name="login_button">Ngena ngemvume</string>
+    <string name="register_button">Bhalisa</string>
+    <string name="search_hint">Sesha izincwadi</string>
+    <string name="search_button">Sesha</string>
+    <string name="logout_button">Phuma</string>
+    <string name="my_books">Izincwadi zami</string>
+    <string name="favorites">Izintandokazi</string>
+    <string name="reading_tracker">Ukulandelela ukufunda</string>
+    <string name="language">Ulimi</string>
+
+    <string-array name="language_options">
+        <item>English</item>
+        <item>isiZulu</item>
+        <item>Sesotho</item>
+    </string-array>
+</resources>
