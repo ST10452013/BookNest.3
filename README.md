@@ -82,3 +82,11 @@ OPURTUNITY FOR GAME OPTION
 Exploring an Additional Game Feature
 
 During development, I explored the possibility of adding a small game feature to BookNest to make the application more interactive and engaging for users. The idea was considered as an additional feature, but it was not fully implemented because priority was given to completing the core library and reading-management functionality.
+
+GitHub Submission and CI/CD Challenges
+
+During the development process, I experienced challenges when uploading the BookNest project to GitHub. Uploading the complete Android Studio project through the GitHub website proved difficult because of the number of files and folders involved. Initially, the project was uploaded as a ZIP file, which prevented GitHub Actions from accessing the individual Gradle files required to build the application.
+
+I also encountered errors when configuring GitHub Actions, including Android SDK setup failures and missing Gradle wrapper files. These issues required troubleshooting and adjustments to the workflow configuration. After correcting the repository structure and workflow, GitHub Actions successfully completed the Android build.
+
+This experience helped me understand the importance of repository organisation, version control and automated build processes.
