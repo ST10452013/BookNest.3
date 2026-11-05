@@ -95,3 +95,5 @@ SCREENSHOTS OF THE APP
 <img width="812" height="1600" alt="WhatsApp Image 2026-11-05 at 22 38 29" src="https://github.com/user-attachments/assets/87d90f43-16d4-4a16-bcc7-ef74675dbc75" />
 
 <img width="812" height="1600" alt="WhatsApp Image 2026-11-05 at 22 38 29 (1)" src="https://github.com/user-attachments/assets/fc5450b7-d4fb-4d73-b6f3-2dc47ac58ce6" />
+
+<img width="812" height="1600" alt="WhatsApp Image 2026-11-05 at 22 38 28" src="https://github.com/user-attachments/assets/b4dd4d92-b360-4e11-aa42-9d039bc6650c" />
