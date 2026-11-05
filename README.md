@@ -77,3 +77,8 @@ Document application testing
 Multilingual Support
 
 BookNest includes language resource files for English, isiZulu and Sesotho. A language selection dropdown was also added to the login screen. However, during testing, the selected language did not consistently update the application's displayed text. This feature remains under investigation and requires further development to ensure that language switching works correctly throughout the application.
+
+OPURTUNITY FOR GAME OPTION 
+Exploring an Additional Game Feature
+
+During development, I explored the possibility of adding a small game feature to BookNest to make the application more interactive and engaging for users. The idea was considered as an additional feature, but it was not fully implemented because priority was given to completing the core library and reading-management functionality.
